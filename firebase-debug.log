@@ -1,0 +1,10 @@
+[debug] [2024-04-17T01:05:13.058Z] ----------------------------------------------------------------------
+[debug] [2024-04-17T01:05:13.060Z] Command:       /usr/local/share/nvm/versions/node/v20.12.1/bin/node /home/codespace/nvm/current/bin/firebase --debug login
+[debug] [2024-04-17T01:05:13.060Z] CLI Version:   13.7.2
+[debug] [2024-04-17T01:05:13.060Z] Platform:      linux
+[debug] [2024-04-17T01:05:13.061Z] Node Version:  v20.12.1
+[debug] [2024-04-17T01:05:13.061Z] Time:          Wed Apr 17 2024 01:05:13 GMT+0000 (Coordinated Universal Time)
+[debug] [2024-04-17T01:05:13.061Z] Env Overrides: GITHUB_API_URL
+[debug] [2024-04-17T01:05:13.061Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as calvert1212@gmail.com
